@@ -1,1 +1,2 @@
-console.log("Hello via Bun!");
+import CONFIG from "../Config.json" assert { type: "json" };
+

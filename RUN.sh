@@ -1,1 +1,1 @@
-node ./SRC/Main.js
+bun ./SRC/Main.js
